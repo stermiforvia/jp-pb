@@ -1,5 +1,5 @@
-from vocabulary_management.vocabulary_management import VocabMan
-from data_management.data_management import DataMan
+from python.vocabulary_management.vocabulary_management import VocabMan
+from python.data_management.data_management import DataMan
 
 class UI:
 
