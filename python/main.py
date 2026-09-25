@@ -1,4 +1,4 @@
-from python.user_interface.user_interface import UI
+from user_interface.user_interface import UI
 
 ui = UI()
 
